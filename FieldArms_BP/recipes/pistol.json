@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "fieldarms:pistol"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " II",
+      " SI",
+      "S  "
+    ],
+    "key": {
+      "I": { "item": "minecraft:iron_ingot" },
+      "S": { "item": "minecraft:stick" }
+    },
+    "result": {
+      "item": "fieldarms:pistol",
+      "count": 1
+    }
+  }
+}

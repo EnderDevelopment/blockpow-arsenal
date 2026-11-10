@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "fieldarms_resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "fieldarms_pistol": {
+      "textures": "textures/items/fieldarms_pistol"
+    }
+  }
+}

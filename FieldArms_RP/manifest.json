@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Field Arms Resources",
+    "description": "Textures and item presentation for Field Arms.",
+    "uuid": "7a9d7437-c982-4ccf-8a8f-496d708931ca",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 80]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4d7f07f1-6518-4d57-9405-21221b359c2f",
+      "version": [1, 0, 0]
+    }
+  ]
+}

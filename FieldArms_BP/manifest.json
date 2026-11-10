@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Field Arms Behavior Pack",
+    "description": "Adds a craftable pistol with a projectile attack.",
+    "uuid": "167de8cd-56e2-44c1-9745-6ce54bb9081a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 80]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b848c32c-ff27-4dd7-8435-bda904253dd0",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7a9d7437-c982-4ccf-8a8f-496d708931ca",
+      "version": [1, 0, 0]
+    }
+  ]
+}
